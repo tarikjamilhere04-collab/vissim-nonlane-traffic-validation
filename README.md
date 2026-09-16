@@ -56,7 +56,7 @@ formulation rather than to calibration error.
 
     scripts/    analysis pipeline, in phase order
     figures/    300 dpi figures used in the thesis
-    data/       sampled trajectory data (see note below)
+    data/       sampled trajectory data
     docs/       thesis and supporting reports
 
 Run the scripts in phase order — later phases read the outputs of
